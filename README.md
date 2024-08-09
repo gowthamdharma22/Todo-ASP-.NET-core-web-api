@@ -68,7 +68,7 @@ This is a Todo API built with ASP.NET Core Web API. It supports user authenticat
 
 ## Developed By
 
-Developed by [Gowtham Dharma]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/gowtham-dharma-e-0a463a232/))
+Developed by [Gowtham Dharma]([https://www.linkedin.com/in/gowtham-dharma-e-0a463a232/])
 
 
 This `README.md` file covers the project overview, setup instructions, API endpoints, and other useful information for developers working with your Todo API. Feel free to adjust any sections as needed to better fit your project specifics.
